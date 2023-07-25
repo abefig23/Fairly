@@ -1,0 +1,35 @@
+.user-demographics-form {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.user-demographics-form .form-group {
+  margin-bottom: 20px;
+}
+
+.user-demographics-form .form-label {
+  font-weight: bold;
+}
+
+.user-demographics-form .form-control {
+  width: 100%;
+}
+
+.user-demographics-form .form-file-input {
+  display: block;
+  margin-top: 5px;
+}
+
+.user-demographics-form .form-text {
+  font-size: 12px;
+  margin-top: 5px;
+  color: #6c757d;
+}
+
+.user-demographics-form .form-check {
+  margin-top: 10px;
+}
+
+.user-demographics-form .submit-button {
+  margin-top: 20px;
+}
